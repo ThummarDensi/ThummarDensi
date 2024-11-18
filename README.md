@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <h2>📊 My LeetCode Stats</h2>
-  <img src="https://leetcard.jacoblin.cool/ramoliyajay9?ext=heatmap" alt="LeetCode Stats" style="border-radius: 10px;"/>
+  <img src="https://leetcard.jacoblin.cool/DensiThummar?ext=heatmap" alt="LeetCode Stats" style="border-radius: 10px;"/>
   <br />
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=ramoliyajay9&animated=true" alt="LeetCode Badges" style="margin-top: 10px;"/>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=DensiThummar&animated=true" alt="LeetCode Badges" style="margin-top: 10px;"/>
 </div>
