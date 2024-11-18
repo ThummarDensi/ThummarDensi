@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <h2>📊 My LeetCode Stats</h2>
+  <img src="https://leetcard.jacoblin.cool/ramoliyajay9?ext=heatmap" alt="LeetCode Stats" style="border-radius: 10px;"/>
+  <br />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=ramoliyajay9&animated=true" alt="LeetCode Badges" style="margin-top: 10px;"/>
+</div>
