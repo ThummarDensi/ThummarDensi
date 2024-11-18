@@ -1,4 +1,19 @@
-## Hi there 👋
+Hello!👋🏻 My name is Densi Thummar. I am from Gujarat State University taking Computer Engineering Technology. 🏫
+
+I have a huge interest in Full Stack Develoment📝 as well coding👩‍💻! Currently studying HTML5, CSS3, JAVASCRIPT, Android, .NET, ⚛️react js, MySQL and being a succesful Full Stack Develomenet.
+
+I love to join different community and competition that involve creating something for the society! 🙋
+
+Skills:
+Community Management | Mobile and Web Development | Project Management 
+
+Tools:
+vscode html css reactjs js git mysql github
+
+🔭 I’m currently working on this page.
+🌱 I’m currently learning Full Stack Develoment
+📫 How to reach me: Densi Thummar (Twitter, Linkedin, GitHub)
+😄 Pronouns: She/Her
 
 <!--
 **ThummarDensi/ThummarDensi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
